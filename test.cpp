@@ -1,9 +1,7 @@
 
 /*
- * assignment-2-test,cpp
+ * test,cpp
  *
- *  @since May 20, 2018
- *  @author philip gust
  */
 
 #include <cstdlib>
