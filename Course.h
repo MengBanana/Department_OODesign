@@ -1,8 +1,6 @@
 /*
  * Course.h
  *
- *  @since May 20, 2018
- *  @author philip gust
  */
 
 #ifndef COURSE_H_
