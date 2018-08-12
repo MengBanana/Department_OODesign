@@ -1,8 +1,6 @@
 /*
  * Student.h
  *
- *  @since Mat 20, 2018
- *  @author philip gust
  */
 
 #ifndef PERSON_H_
