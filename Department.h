@@ -1,8 +1,6 @@
 /*
  * Department.h
  *
- *  @since May 20, 2018
- *  @author philip gust
  */
 
 #ifndef DEPARTMENT_H_
