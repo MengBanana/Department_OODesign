@@ -1,8 +1,6 @@
 /*
  * Section.h
  *
- *  @since May 20, 2018
- *  @author philip gust
  */
 
 #ifndef SECTION_H_
