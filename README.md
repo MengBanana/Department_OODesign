@@ -1,6 +1,6 @@
 # OOD_C++
-OOD_JAVA
-encapsulation and commosition by implementing a data model for University academic department that has courses with multiple sections, 
+
+Encapsulation and commosition by implementing a data model for University academic department that has courses with multiple sections, 
 and people who are teachers or students. A Department is an aggregation of Person and Course. The aggregation enables a Person who 
 is a student or teacher in a department to be found based on family and given name, and a Course of the Department to be found based 
 on a course name. The family/given name combination must tbe unique among Person instances, and the course name must be unique 
@@ -19,7 +19,7 @@ inserts an element searches the array for a nullptr slot where the new entry wil
 array is full In C++, elements of an array of pointers are initialized to nullptr using a declaration like new Person*maxMembers 
 with parens after the square brackets.
 
-Individual Course, Section,and Person objects are added but not deleted in this assignment. Fully implment the destructors for 
+Individual Course, Section,and Person objects are added but not deleted. Fully implment the destructors for 
 all classes because a Department can be deleted, which in turn causes all of the other objects to be deleted. Course creates and 
 deletes its Section elements, but does not delete the Department that it references. A Section aggregates Persons associated with Course, 
 so its destructor should not delete them. Department creates the Person and Department objects it adds, so it should delete them in its 
