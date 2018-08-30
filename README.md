@@ -1,4 +1,4 @@
-# School_OODesign
+# Department_OODesign
 
 Encapsulation and commosition by implementing a data model for University academic department that has courses with multiple sections, 
 and people who are teachers or students. A Department is an aggregation of Person and Course. The aggregation enables a Person who 
